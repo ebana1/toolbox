@@ -21,6 +21,7 @@
 #include <cstddef>
 #include <vector>
 #include <type_traits>
+#include <cstdint>
 
 namespace toolbox {
 namespace strings {
